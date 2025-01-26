@@ -7,7 +7,6 @@ import ResetPassword from "./Pages/Authentication/ResetPassword/ResetPassword";
 import Home from "./Pages/Home/Home";
 import { ToastContainer } from 'react-toastify';
 import DashboardLayout from "./Components/DashBoard/DashBoardLayout";
-import Dashboard from "./pages/Dashboard/Dashboard";
 import ApplicationForm from "./Pages/Dashboard/ApplicationForm";
 import AllApplication from "./Pages/Dashboard/AllApplication";
 
